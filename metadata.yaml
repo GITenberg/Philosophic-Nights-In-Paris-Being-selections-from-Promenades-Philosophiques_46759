@@ -1,0 +1,40 @@
+_repo: Philosophic-Nights-In-Paris-Being-selections-from-Promenades-Philosophiques_46759
+contributor:
+  translator:
+    agent_name: Goldberg, Isaac
+    birthdate: 1887
+    deathdate: 1938
+    gutenberg_agent_id: '4791'
+    url: http://www.gutenberg.org/2009/agents/4791
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Goldberg
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - Coffe, M.
+    - Gourmont, Remi de
+    - Gourmont, Remye
+    - De Gourmont, Remy
+    - Drexelius, J.
+    - Le Danois, N.
+    - L'Ymagier
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+    - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
+description: ''
+gutenberg_issued: '2014-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Philosophic Nights In Paris
+
+  Being selections from Promenades Philosophiques'
+url: http://www.gutenberg.org/ebooks/46759
