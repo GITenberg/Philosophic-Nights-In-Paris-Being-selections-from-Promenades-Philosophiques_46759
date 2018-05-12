@@ -1,4 +1,5 @@
 _repo: Philosophic-Nights-In-Paris-Being-selections-from-Promenades-Philosophiques_46759
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Goldberg, Isaac
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4791'
     url: http://www.gutenberg.org/2009/agents/4791
     wikipedia: http://en.wikipedia.org/wiki/Isaac_Goldberg
+covers:
+- cover_type: archival
+  image_path: 46759-h/images/cover.jpg
 creator:
   author:
     agent_name: Gourmont, Remy de
@@ -26,6 +30,8 @@ creator:
     - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
     - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46759#Philosophic-Nights-In-Paris-Being-selections-from-Promenades-Philosophiques
 gutenberg_issued: '2014-09-03'
 gutenberg_type: Text
 identifiers:
